@@ -1,0 +1,3 @@
+O sistema faz o gerenciamento de vendas de uma loja, contendo informações sobre os clientes, produtos, vendas e itens de venda. Ele possibilita o cadastro de novos clientes, ou novos produtos, registro de novas vendas, e a visualização dos relatórios detalhado de acordo com as vendas realizadas.
+Principais Funcionalidades:
+Cadastro de Clientes, Cadastro de Produtos, Registros de Vendas e Relatorios de vendas
